@@ -14,7 +14,7 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
 下の図において、チェックマークが付いているリソースが、Latonaにおいて(少なくとも1次の)整備が行われたものであり、github上に公開されています。  
 
-![リソース整備状況](documents/sucessfactors_sandbox.drawio.png)
+![リソース整備状況](documents/sucessfactors_sandbox.png)
 
 ## 各リソースの所在  
 各リソースの所在は、次の箇所です。  
@@ -38,11 +38,6 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 
 * [sap-employment-information-sql](https://github.com/latonaio/sap-employment-information-sql)
 * [sap-position-management-sql](https://github.com/latonaio/sap-position-management-sql)
-
-##### SQL
-
-* [sap-employment-information-sql](https://github.com/latonaio/sap-employment-information-sql)
-
 
 ## sap-sandbox-successfactors における SAP領域・機能 の選択基準
 sap-sandbox-successfactors におけるSAP領域・機能は、SAP SucessFactors のあらゆる領域・機能のうち、世界中の企業で繰り返し利用される、利用頻度の高いものと判断されるものが、選択されています。  
