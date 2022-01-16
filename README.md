@@ -32,6 +32,12 @@ sap-sandbox は、オンプレミス版である（＝クラウド版ではな�
 ##### READS
 
 * [sap-api-integrations-employment-information-reads](https://github.com/latonaio/sap-api-integrations-employment-information-reads)
+* [sap-api-integrations-position-management-reads](https://github.com/latonaio/sap-api-integrations-position-management-reads)
+
+##### SQL
+
+* [sap-employment-information-sql](https://github.com/latonaio/sap-employment-information-sql)
+* [sap-position-management-sql](https://github.com/latonaio/sap-position-management-sql)
 
 ## sap-sandbox-successfactors における SAP領域・機能 の選択基準
 sap-sandbox-successfactors におけるSAP領域・機能は、SAP SucessFactors のあらゆる領域・機能のうち、世界中の企業で繰り返し利用される、利用頻度の高いものと判断されるものが、選択されています。  
