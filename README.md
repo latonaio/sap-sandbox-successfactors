@@ -8,7 +8,7 @@ sap-sandbox の 「sandbox」は、Netflix 韓国ドラマ 「START-UP」 より
 なお、各リポジトリのリソースは、そのままクラウド環境におけるアプリケーションにも適用可能です。  
 
 ## 前提条件  
-sap-sandbox は、オンプレミス版である（＝クラウド版ではない）SAP SuccessFactors API の利用を前提としています。  
+sap-sandbox-successfactors は、オンプレミス版である（＝クラウド版ではない）SAP SuccessFactors API の利用を前提としています。  
 クラウド版APIを利用する場合は、ご注意ください。  
 
 ## Latona における SAP 領域・機能ごと の リソース整備状況    
